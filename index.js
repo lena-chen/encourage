@@ -1,0 +1,1 @@
+console.log("I guess it's normal to feel like running a marathon and you think you wont reach the end line. You just watch others moving further and further away. You will get there...just needs sweat, maybe tears and time. There is NOTHING you cannot do!")
